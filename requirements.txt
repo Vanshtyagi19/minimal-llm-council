@@ -1,0 +1,18 @@
+# Core framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Data validation
+pydantic==2.5.0
+
+# HTTP client
+httpx==0.25.0
+
+# Environment
+python-dotenv==1.0.0
+
+# For Gradio UI
+gradio==4.8.0
+
+# Additional
+python-multipart==0.0.6
